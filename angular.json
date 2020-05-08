@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "angular-mock-data"
+    }
+  },
+  "defaultProject": "angular-mock-data",
+  "cli": {
+    "analytics": false
+  }
 }
